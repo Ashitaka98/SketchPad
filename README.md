@@ -2,8 +2,6 @@
 
 QT painter like mspaint
 
-忘了在哪里看到的这个开源，目前在对它进行魔改，渗透代码ing
-
 
 所学知识：
 
